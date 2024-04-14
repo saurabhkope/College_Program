@@ -1,1 +1,0 @@
-Q2. Write a program which define class Product with data member as id, name and price. Store
